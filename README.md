@@ -209,16 +209,3 @@ FastAPI auto-generates interactive docs at:
 
 ---
 
-## 🏆 Hackathon Notes
-
-This project was built as an MVP for a **national-level Agentic AI Hackathon**.
-
-Key differentiators:
-1. **Not a chatbot** — A multi-agent OS with structured debate and consensus
-2. **Digital Twin** — Persistent user profile with cross-session memory
-3. **Demo-ready** — Works fully without any API keys (mock mode)
-4. **Production architecture** — LangGraph, async FastAPI, SQLModel
-
----
-
-Built with ❤️ for the Agentic AI Hackathon 2024
